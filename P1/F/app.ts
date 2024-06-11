@@ -11,3 +11,8 @@
 // Una vez finalizado esto, en el main.tsx al quitar el contenido indicado en ese archivo tendremos cosas en rojo, para que quede normal, tenemos que escribir 'npm install'
 
 // Al finalizarse este proceso ya estamos listos para continuar
+
+
+// UNA VEZ FINALIZADO EL PROYECTO...
+
+// Se puede suibir al internet, sin embargo para subirlo lo que se tiene que hacer es escribir en la consola 'npm run build'; de esta manera se genera la carpeta dist, y de esta manera se genera un html, un css y un js a pesar de haber utilizado ts; una vez finalizado solo se arrastra esta carpeta para donde se quiera subir y estaría listo.
